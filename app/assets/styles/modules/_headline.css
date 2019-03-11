@@ -24,7 +24,6 @@
 		}		
 	}
 
-
 	&--narrow {
 		max-width: 500px;
 		margin-left: auto;
@@ -33,9 +32,7 @@
 
 	&--light {
 		font-weight: 100;
-	}
-
-	
+	}	
 
 	&--b-margin-small {
 		margin-bottom: .5em;
@@ -45,7 +42,10 @@
 		margin-bottom: 1.6em;
 	}
 
+	
 	&--no-t-margin {
-		margin-top: 0;
+		/*margin-top: 0;*/
 	}
+
+	
 }

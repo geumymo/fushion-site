@@ -9,7 +9,7 @@
 
 	&--medium {
 		max-width: 976px;
-	}
+	}	
 
 	.wrapper {
 		padding-left: 0;
@@ -23,4 +23,6 @@
 			margin-bottom: 3.875rem;
 		}
 	}
+
+
 }
